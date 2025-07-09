@@ -18,10 +18,12 @@ Ukrainian - Native
 
 ### Code example:
 Reverse words
+```javascript
 function reverseWords(str) {
   const words = str.split(' ');
   let reverseWords = words.map(word => [...word].reverse().join(''));
   return reverseWords.join(' ');
 }
+```
 
 ### Courses
