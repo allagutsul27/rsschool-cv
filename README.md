@@ -1,1 +1,1 @@
-https://allagutsul27.github.io/rsschool-cv/cv/
+https://allagutsul27.github.io/rsschool-cv/cv.md/
