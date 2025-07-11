@@ -10,11 +10,11 @@ LinkedIn: [Alla Gutsul](www.google.com)
 HTML5, CSS3
 JavaScript Basics
 Git, GitHub
-VS Code,
+VS Code, React
 
 ### Languages:
-English - Pre-Intermediate
-Ukrainian - Native
+*English - Pre-Intermediate
+*Ukrainian - Native
 
 ### Code example:
 Reverse words
@@ -26,4 +26,5 @@ function reverseWords(str) {
 }
 ```
 
-### Courses
+### Projects
+[Layout_dia]https://github.com/allagutsul27/layout_dia
